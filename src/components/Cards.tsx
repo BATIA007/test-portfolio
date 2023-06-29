@@ -163,7 +163,7 @@ export const Cards: React.FC = () => {
               </CardContent>
               <CardActions sx={{ display: 'felx', columnGap: 2 }}>
                 <Button variant='outlined' fullWidth target='_blank' href={data.watch} size='large'>Watch</Button>
-                {data.git && <Button variant='outlined' fullWidth href={data.git} size='large'>GitHub</Button>}
+                {data.git && <Button variant='outlined' fullWidth target='_blank' href={data.git} size='large'>GitHub</Button>}
               </CardActions>
             </Card>
           </Grid>
