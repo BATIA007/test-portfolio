@@ -21,7 +21,7 @@ const items = [{
 -Redux
     `
   ,
-  watch: 'https://batia007.github.io/cancelled-work-react-ts-mob-garant',
+  watch: 'https://test-portfolio-zomt.vercel.app/',
   git: 'https://github.com/BATIA007/cancelled-work-react-ts-mob-garant'
 }, {
   src: require('../images/prodkarta.png'),
